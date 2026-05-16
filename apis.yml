@@ -9,9 +9,21 @@ tags:
   - Retail
 description: 'An American petroleum brand owned by Chevron marketing fuels, lubricants, and petrochemical products. Operates a network of service stations across the United States and internationally with a long history in the oil industry.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.texaco.com/
+  - type: ParentCompany
+    url: https://www.chevron.com/
+  - type: Lubricants
+    url: https://www.texacolubricants.com/
+  - type: StationFinder
+    url: https://www.texaco.com/station-finder
+  - type: Rewards
+    url: https://www.texaco.com/rewards
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    X: '@apievangelist'

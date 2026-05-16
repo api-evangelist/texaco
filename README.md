@@ -13,5 +13,11 @@ An American petroleum brand owned by Chevron marketing fuels, lubricants, and pe
 ## Timestamps
 
 - **Created:** 2026-05-05
-- **Modified:** 2026-05-05
+- **Modified:** 2026-05-16
+
+## Status
+
+Texaco is a retail fuel and lubricants brand owned by Chevron. It does not currently publish a public developer portal or API. Station finder, rewards (Techron Advantage), and CarPlay/Android Auto-integrated mobile experiences are delivered through Chevron-managed apps and partner channels rather than a documented public API.
+
+This repository is being tracked for future updates if and when developer documentation becomes available.
 
