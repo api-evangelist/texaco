@@ -13,6 +13,8 @@ modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/texaco-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/texaco
   - type: Website
