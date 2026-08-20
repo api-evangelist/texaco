@@ -16,6 +16,10 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/texaco.png
 tags:
   - Energy
+  - Oil and Gas
+  - Retail
+tags_raw:
+  - Energy
   - Oil & Gas
   - Retail
 description: 'An American petroleum brand owned by Chevron marketing fuels, lubricants, and petrochemical products. Operates a network of service stations across the United States and internationally with a long history in the oil industry.'
